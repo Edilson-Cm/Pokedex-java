@@ -41,7 +41,6 @@ O projeto foi criado como parte dos meus estudos em Java e Spring Boot, com foco
 - Programação Orientada a Objetos
 
 ## Próximas melhorias
- 
 - Consumir habilidades (Abilities) da PokéAPI
 - Consumir tipos (Types) dos Pokémon
 - Melhorar o tratamento de exceções
